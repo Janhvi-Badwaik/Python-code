@@ -1,0 +1,7 @@
+a = input("Enter First no. two find average of two no.:-")
+a = int(a)
+b = input("Enter Second no. two find average of two no.:-")
+b = int(b)
+c = ((a+b)/2)
+print("Averge of a and  b is", c)
+print(type(c))
